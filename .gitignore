@@ -6,10 +6,9 @@ IMAGE_CATEGORY_*/
 __pycache__/
 *.pyc
 
-# Ignorer environnement virtuel (si vous en créez un)
+# Ignorer environnement virtuel 
 venv/
 env/
 
-# Fichiers spécifiques aux éditeurs (à adapter selon votre IDE)
+# Fichiers spécifiques aux éditeurs 
 .vscode/
-.idea/
