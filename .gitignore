@@ -1,0 +1,15 @@
+# Ignorer les dossiers de données et images générés
+COLLECT_DATA/
+IMAGE_CATEGORY_*/
+
+# Ignorer fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer environnement virtuel (si vous en créez un)
+venv/
+env/
+
+# Fichiers spécifiques aux éditeurs (à adapter selon votre IDE)
+.vscode/
+.idea/
