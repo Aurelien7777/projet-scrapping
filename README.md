@@ -32,14 +32,13 @@ Le script :
 ### Installation des dépendances
 1. Cloner le projet :
 
-git clone https://github.com/Aurelien7777/scrapping-books.git
+git clone https://github.com/Aurelien7777/projet-scrapping.git
 
 
 2. Créer et activer un environnement virtuel :
 
 python -m venv venv
-source venv/bin/activate      # macOS / Linux
-venv\Scripts\activate         # Windows
+venv\Scripts\activate 
 
 
 3. Installer les dépendances
