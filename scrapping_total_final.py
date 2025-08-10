@@ -125,7 +125,7 @@ def collect_category():
     
     for element in category:
         list_category.append(element.get_text())
-    return list_category[-1]
+    return list_category[3]
 
 #Récupération de la note du livre
 def collect_review_rating():
